@@ -1,7 +1,6 @@
 # Linux-System-Monitor
 
-Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
-
+Linux System Monitor implemented in c++. This project is part of object oriented programming part of Udacity nanodegree program. It is inspired from htop.
 ![System Monitor](images/monitor.png)
 
 ## ncurses
