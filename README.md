@@ -1,6 +1,7 @@
 # Linux-System-Monitor
 
 Linux System Monitor implemented in c++. This project is part of object oriented programming part of Udacity nanodegree program. It is inspired from htop.
+
 ![System Monitor](images/monitor.png)
 
 ## ncurses
